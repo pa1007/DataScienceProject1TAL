@@ -1,0 +1,11 @@
+json
+string
+pandas 1.4.2
+wikipedia 1.4.0
+wptools 0.4.17
+SPARQLWrapper 2.0.0
+nltk 3.7
+sklearn 1.1.0
+matplotlib 3.5.2
+numpy 1.22
+seaborn 0.11.2
